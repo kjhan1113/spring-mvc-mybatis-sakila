@@ -1,0 +1,4 @@
+spring\mvc\sakila\configure\SakilaServletConfig.class
+spring\mvc\sakila\configure\SakilaServletInitializer.class
+spring\mvc\sakila\controller\MainController.class
+spring\mvc\sakila\configure\SakilaRootConfig.class
